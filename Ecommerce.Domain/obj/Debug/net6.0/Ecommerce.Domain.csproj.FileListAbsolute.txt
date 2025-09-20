@@ -1,0 +1,11 @@
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\bin\Debug\net6.0\Ecommerce.Domain.deps.json
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\bin\Debug\net6.0\Ecommerce.Domain.dll
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\bin\Debug\net6.0\Ecommerce.Domain.pdb
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\Ecommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\Ecommerce.Domain.AssemblyInfo.cs
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\Ecommerce.Domain.dll
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\refint\Ecommerce.Domain.dll
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\Ecommerce.Domain.pdb
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Domain\obj\Debug\net6.0\ref\Ecommerce.Domain.dll

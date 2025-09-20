@@ -1,0 +1,15 @@
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Application.deps.json
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Application.dll
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Application.pdb
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Domain.dll
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\bin\Debug\net6.0\Ecommerce.Domain.pdb
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.csproj.AssemblyReference.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.AssemblyInfoInputs.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.AssemblyInfo.cs
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.csproj.CoreCompileInputs.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerc.C5F54E74.Up2Date
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.dll
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\refint\Ecommerce.Application.dll
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\Ecommerce.Application.pdb
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.Application\obj\Debug\net6.0\ref\Ecommerce.Application.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqjHHf6I/V0=",
+  "success": true,
+  "projectFilePath": "E:\\JOB\\project\\EcommerceInventorySystem\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-rc.2.24474.11\\microsoft.net.sdk.compilers.toolset.9.0.100-rc.2.24474.11.nupkg.sha512"
+  ],
+  "logs": []
+}

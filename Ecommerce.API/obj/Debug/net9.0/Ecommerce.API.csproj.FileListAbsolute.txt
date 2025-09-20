@@ -1,0 +1,6 @@
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.API\obj\Debug\net9.0\Ecommerce.API.csproj.AssemblyReference.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.API\obj\Debug\net9.0\Ecommerce.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.API\obj\Debug\net9.0\Ecommerce.API.AssemblyInfoInputs.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.API\obj\Debug\net9.0\Ecommerce.API.AssemblyInfo.cs
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.API\obj\Debug\net9.0\Ecommerce.API.csproj.CoreCompileInputs.cache
+E:\JOB\project\EcommerceInventorySystem\Ecommerce.API\obj\Debug\net9.0\Ecommerce.API.MvcApplicationPartsAssemblyInfo.cache
